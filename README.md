@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alivxo</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
-<img align="right" alt="Coding" width="400" >https://camo.githubusercontent.com/87ee563fca6207f8ffb2942bc4aa14ff082d0e6c60de9ee7a0da490c4e7ba4dc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37302f33372f64342f37303337643437383835326166323133353766303338666163326432653966362e676966
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alivxo&label=Profile%20views&color=0e75b6&style=flat" alt="alivxo" /> </p>
 
