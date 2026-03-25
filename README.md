@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alicia</h1>
 <h3 align="center">A passionate backend developer from New York 🗽</h3>
 
-- 🔭 I’m currently working on [QuikMart](https://github.com/alivxo/QuikMart)
+- 🔭 I’m currently working on an automation tool known as Playwright with assistance of AI Agents (https://github.com/alivxo/QuikMart)
 
-- 🌱 I’m currently learning **RestAPIs, React, JavaScript, Java, Apache Camel, SQL**
+- 🌱 I’m currently learning **RestAPIs, AI Agents, Playwright, Python, Cucumber, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alivxo?tab=repositories](https://github.com/alivxo?tab=repositories)
 
